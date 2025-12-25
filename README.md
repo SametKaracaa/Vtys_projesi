@@ -1,6 +1,5 @@
 # Anime Veritabanı Masaüstü Uygulaması
 
-.NET 10 ve Npgsql 6 kullanılarak geliştirilmiş modern bir anime veritabanı yönetim uygulaması.
 
 ## Özellikler
 
